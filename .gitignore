@@ -1,0 +1,14 @@
+# Python dependencies/environment
+venv/
+__pycache__/
+
+# Node.js dependencies
+node_modules/
+
+# Build and distribution
+dist/
+build/
+
+# IDE/OS files
+.vscode/
+.DS_Store
